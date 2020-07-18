@@ -1,16 +1,22 @@
-### Hi there 👋
+### I am Nikhil Upadhyay 👋
 
-<!--
-**jerrycode06/jerrycode06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing Masters in Computer Science and Applications
+- 🌱 I’m currently learning MERN Stack and Game Development
+- 💬 Ask me about Game Development and Web Development
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: My friends call me Jerry and I am obsessed with Anime. 
 
-Here are some ideas to get you started:
+![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=jerrycode06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+<br>
+  <a href="https://www.linkedin.com/in/nikhil-upadhyay-166673150/">
+    <img align="left" alt="Nikhil Upadhyay | Linkedin" width="24px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/chaotic_jerry">
+    <img align="left" alt="Nikhil Upadhyay | Twitter" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:nikhil9690@gmail.com">
+    <img align="left" alt="Nikhil Upadhyay | Gmail" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Gmail.svg" />
+  </a>
+
