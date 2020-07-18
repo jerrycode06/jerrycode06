@@ -1,4 +1,4 @@
-### I am Nikhil Upadhyay 👋
+### Hello, I am Nikhil Upadhyay 👋
 
 - 🔭 I’m currently pursuing Masters in Computer Science and Applications
 - 🌱 I’m currently learning MERN Stack and Game Development
