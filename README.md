@@ -5,6 +5,7 @@
 - 💬 Ask me about Game Development and Web Development
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My friends call me Jerry and I am obsessed with Anime. 
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=jerrycode06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
@@ -19,4 +20,3 @@
   <a href="mailto:nikhil9690@gmail.com">
     <img align="left" alt="Nikhil Upadhyay | Gmail" width="26px" src="https://github.com/AquibPy/AquibPy/blob/master/Assets/Gmail.svg" />
   </a>
-
