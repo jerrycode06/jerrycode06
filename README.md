@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently pursuing Masters in Computer Science and Applications
 - 🌱 I’m currently learning MERN Stack and Game Development
-- 💬 Ask me about Game Development and Web Development
+- 💬 Ask me about **Game Development** and **Web Development**.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: My friends call me Jerry and I am obsessed with Anime. 
+- ⚡ Fun fact: My friends call me Jerry and I am Physicist too. 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=jerrycode06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
