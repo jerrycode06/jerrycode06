@@ -3,7 +3,7 @@
 - 🔭 I’m currently pursuing Masters in Computer Science and Applications
 - 🌱 I’m currently learning MERN Stack and Game Development
 - 💬 Ask me about **Game Development** and **Web Development**.
-- 😄 Pronouns: He/His
+- 😄 "When something is important enough, you do it even if the odds are not in your favor." ~ Elon Musk 
 - ⚡ Fun fact: My friends call me Jerry and I am Physicist too. 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
