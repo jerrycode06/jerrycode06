@@ -19,12 +19,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Web Automation with Puppeteer - Node JS](https://dev.to/jerrycode06/web-automation-with-puppeteer-node-js-4kg6)
-- [UI/UX - Design Thinking](https://dev.to/jerrycode06/ui-ux-design-thinking-1ph4)
-- [My Graduation Project Experience](https://dev.to/jerrycode06/my-graduation-project-experience-5hm2)
-<!-- BLOG-POST-LIST:END -->
+## Blogs posts
+
+![Blog Cards](https://github-readme-social-article.vercel.app/devto/jerrycode06?top=2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
