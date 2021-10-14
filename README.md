@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **nikhil9690@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UKwN9wweHF4lwF9HHoSkLqlDnpstmX2Z/view?usp=sharing](https://drive.google.com/file/d/1UKwN9wweHF4lwF9HHoSkLqlDnpstmX2Z/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am funny**
 
 ## Blogs posts
