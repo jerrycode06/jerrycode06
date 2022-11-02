@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Three.js, Computer Networks**
 
-- 👨‍💻 All of my projects are available at [https://nupadhyay.netlify.app](https://nupadhyay.netlify.app)
-
 - 📝 I regularly write articles on [https://dev.to/jerrycode06](https://dev.to/jerrycode06)
 
 - 💬 Ask me about **react, computer graphics**
