@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_headless_coder" target="blank"><img src="https://img.shields.io/twitter/follow/_headless_coder?logo=twitter&style=for-the-badge" alt="_headless_coder" /></a> </p>
 
-- 🌱 I’m currently learning **Three.js, Computer Networks**
+- 🌱 I’m currently learning **System Design, Computer Networks**
 
 - 📝 I regularly write articles on [https://dev.to/jerrycode06](https://dev.to/jerrycode06)
 
-- 💬 Ask me about **react, computer graphics**
+- 💬 Ask me about **JavaScript and its tweaks**
 
 - 📫 How to reach me **nikhil9690@gmail.com**
 
