@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://github.com/jerrycode06/jerrycode06/assets/53979129/da9c2b16-4c3e-439b-ba1b-b0bb0f3489df)
+
+
 ## Blogs posts
 
 ![Blog Cards](https://github-readme-social-article.vercel.app/devto/jerrycode06?top=2)
