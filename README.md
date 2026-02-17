@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design, Computer Networks**
 
-- 📝 I regularly write articles on [https://dev.to/jerrycode06](https://dev.to/jerrycode06)
+- 📝 I regularly write articles on [https://semicolonstories.me](https://semicolonstories.me/)
 
 - 💬 Ask me about **JavaScript and its tweaks**
 
@@ -19,8 +19,7 @@
 
 
 ## Blogs posts
-
-![Blog Cards](https://github-readme-social-article.vercel.app/devto/jerrycode06?top=2)
+[https://semicolonstories.me](https://semicolonstories.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
